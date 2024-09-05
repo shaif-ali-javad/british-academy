@@ -60,16 +60,18 @@
 
 // export default page
 
-import React, { Component } from 'react'
+'use client'
+// import Image from "next/image";
+import React from "react";
+// import { CardBody, CardContainer, CardItem } from "@/components/ui/3d-card";
+// import courseData from "@/data/data.json"
 
-export class page extends Component {
-  render() {
-    return (
-      <div>
+function page() {
+  return (
+    <div className="min-h-screen bg-black py-12 pt-36">
         
-      </div>
-    )
-  }
+    </div>
+  )
 }
 
 export default page
