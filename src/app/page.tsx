@@ -1,6 +1,7 @@
 import BackgroundGradientDemo0 from "@/components/featured-services0";
 import BackgroundGradientDemo1 from "@/components/featured-services1";
 import HeroSection0 from "@/components/heroSection0";
+import HeroSection1 from "@/components/heroSection1";
 // import Image from "next/image";
 // import Whychoosus from "@/components/WhyChoosUs"
 import { InfiniteMovingCardsDemo } from "@/components/TestimonalCards";
@@ -16,6 +17,7 @@ export default function Home() {
     <InfiniteMovingCardsDemo/>
     <CardHoverEffectDemo0/>
     <BackgroundGradientDemo1/>
+    <HeroSection1/>
     {/* <Instructors/> */}
     </main>
   );
