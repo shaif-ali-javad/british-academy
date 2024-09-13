@@ -2,9 +2,9 @@
     "courses": [
       {
         "id": 1,
-        "title": "Expert Trainers",
+        "title": "125 +",
         "slug": "guitar-fundamentals",
-        "description": "Best & highly qualified",
+        "description": "Certified Trainers",
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
@@ -12,8 +12,8 @@
       },
       {
         "id": 2,
-        "title": "Certification",
-        "slug": "piano-for-beginners",
+        "title": "10 +",
+        "slug": "Years of Experience",
         "description": "valued all over the world",
         "price": 109.99,
         "instructor": "Jane Smith",
@@ -22,8 +22,8 @@
       },
       {
         "id": 3,
-        "title": "Language Skills",
-        "slug": "advanced-vocal-techniques",
+        "title": "25,000 +",
+        "slug": "Students Enrolled",
         "description": "with best courses",
         "price": 119.99,
         "instructor": "Emily Johnson",

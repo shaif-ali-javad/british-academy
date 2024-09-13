@@ -26,3 +26,15 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.imgage{
+  height: 30rem;
+  border-radius: 20px;
+}
+
+@media (min-width: 1024x) {
+  .imggs{
+    margin-right: 40rem;
+  }
+}
