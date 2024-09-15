@@ -7,9 +7,7 @@ function Footer() {
           <div>
             <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
             <p className="mb-4">
-              Music School is a premier institution dedicated to teaching the art
-              and science of music. We nurture talent from the ground up,
-              fostering a vibrant community of musicians.
+            British Academy is a prestigious institution committed to providing top-tier education and nurturing intellectual growth. We empower students from the ground up, fostering a dynamic learning environment that inspires excellence.
             </p>
           </div>
           <div>

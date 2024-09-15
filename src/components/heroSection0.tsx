@@ -13,7 +13,7 @@ function HeroSection() {
       <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 gap-8 justify-center">
 
       <div>
-        <img src="https://britfort.com/wp-content/uploads/2023/01/abcd.jpg.webp" alt="" className="imgage m-auto" />
+        <img src="https://thebritishacademy.org/assets/card-1-Bs9E4ZFD.webp" alt="" className="imgage m-auto" />
       </div>
         <div className="p-4 ralative z-10 w-full m-auto imggs">
             <h1 className="mt-20 md:mt-0 text-3xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 mb-4">About British Academy</h1>
