@@ -18,7 +18,7 @@ function HeroSection() {
         <div className="p-4 ralative z-10 w-full m-auto imggs">
             <h1 className="mt-20 md:mt-0 text-3xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 mb-4">About British Academy</h1>
             <h1 className="mt-20 md:mt-0 text-4xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">Welcome to the No. 1 Language Coaching Centre in India.</h1>
-            <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">Britfort Academy is a unique and distinctive institute that helps you to realize your drawbacks and improve your cherished aspiration about advanced mastery and proficiency in English.</p>
+            <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">British Academy is a unique and distinctive institute that helps you to realize your drawbacks and improve your cherished aspiration about advanced mastery and proficiency in English.</p>
             <div className="mt-4">
                 <Link href={"/service"}>
                 <Button

@@ -29,7 +29,7 @@ const testimonials = [
   },
   {
     quote:
-      "Great place for academic teaching for IELTS. experienced tutors who have done IELTS exam. So there is no 2nd thought about britfort.",
+      "Great place for academic teaching for IELTS. experienced tutors who have done IELTS exam. So there is no 2nd thought about British.",
     name: "Nikhil Babu",
     // title: "Hamlet",
   },
@@ -40,7 +40,7 @@ const testimonials = [
   },
   {
     quote:
-      "I had a great learning experience with britfort academy. My coach Ms Sneha Mathew was always there to help and guide.",
+      "I had a great learning experience with British academy. My coach Ms Sneha Mathew was always there to help and guide.",
     name: "Rajath NK",
     // title: "Pride and Prejudice",
   },

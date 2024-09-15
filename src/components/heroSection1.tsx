@@ -12,7 +12,7 @@ function HeroSection() {
 
         <div className="p-4 ralative z-10 w-full m-auto imggs">
             <h1 className="mt-20 md:mt-0 text-2xl md:text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 mb-4">Why Choose Us?</h1>
-            <h1 className="mt-20 md:mt-0 text-4xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">Benefits of Learning at Britfort</h1>
+            <h1 className="mt-20 md:mt-0 text-4xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">Benefits of Learning at British</h1>
             <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">The main goal of this academy is to ensure each of our student’s communicative competence, comprehensive command, and overall skill in English.</p>
             <div className="mt-4">
             <h1 className="mt-20 md:mt-0 text-2xl md:text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 mb-4">Start learning from our experts and enhance your skills.</h1>
