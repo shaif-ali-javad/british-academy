@@ -38,3 +38,18 @@ body {
     margin-right: 40rem;
   }
 }
+
+.bg-dac{
+  position: relative;
+  background-image: url('https://img.freepik.com/free-photo/young-students-learning-together-group-study_23-2149211067.jpg?t=st=1726411721~exp=1726415321~hmac=bab00ec6b9cee162f542931dd1f37629d0d02616b14d5c6d13d5d76e957f1417&w=900');
+  background-size: cover;
+  background-position: center;
+}
+
+.darkbg-zinc-900{
+  background-color: rgba(0, 0, 0, 0.849);
+}
+
+.ada{
+  height: 10rem;
+}

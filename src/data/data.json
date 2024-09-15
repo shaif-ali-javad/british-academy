@@ -8,7 +8,7 @@
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
-        "image": "https://www.techhubdecor.com/image/services/modern-living-room-interior-design.jpg" 
+        "image": "https://shaif-ali-javad.github.io/image-storage/Asset1.png" 
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "price": 109.99,
         "instructor": "Jane Smith",
         "isFeatured": true,
-        "image": "https://www.techhubdecor.com/image/services/img/room-house-decorated-with-brazilian-folklore-design-min.jpg" 
+        "image": "https://shaif-ali-javad.github.io/image-storage/Asset%202.png" 
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "price": 119.99,
         "instructor": "Emily Johnson",
         "isFeatured": true,
-        "image": "https://www.techhubdecor.com/image/services/img/realistic-modern-interior-design-min.jpg" 
+        "image": "https://shaif-ali-javad.github.io/image-storage/Asset%201.png" 
       }
     ]
   }
