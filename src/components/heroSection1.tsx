@@ -19,7 +19,7 @@ function HeroSection() {
             </div>
         </div>
         <div>
-        <img src="https://img.freepik.com/free-photo/beautiful-day-campus_329181-3042.jpg?t=st=1726411032~exp=1726414632~hmac=48cb6b7ee6fe26e3e4224f513a90b0200bd5c4908383ae5ea88eeb91dafeafc1&w=1060" alt="" className="imgage m-auto" />
+        <img src="https://img.freepik.com/premium-photo/young-college-girl-standing-college-campus_601128-4657.jpg?w=360" alt="" className="imgage m-auto" />
       </div>
                   </div>
     </div>
