@@ -18,7 +18,7 @@ const courseData = [
     "price": 99.99,
     "instructor": "John Doe",
     "isFeatured": true,
-    "image": "https://britfort.in/wp-content/uploads/2023/01/C6.jpg" 
+    "image": "https://img.freepik.com/free-photo/medium-shot-kids-sitting-together-table_23-2149355251.jpg?t=st=1727188308~exp=1727191908~hmac=f68e734e2b61e42d8d16ea5acab4ebfcbb20900476c430e1bd8789c6bf257f30&w=900" 
   },
   {
     "id": 2,
@@ -28,7 +28,7 @@ const courseData = [
     "price": 109.99,
     "instructor": "Jane Smith",
     "isFeatured": true,
-    "image": "https://britfort.in/wp-content/uploads/2023/01/C7.jpg" 
+    "image": "https://img.freepik.com/premium-photo/new-luxury-residential-buildings-stylish-office-building-premium-apartments-flat-building_71956-25222.jpg?w=826 " 
   },
   {
     "id": 3,
@@ -38,7 +38,7 @@ const courseData = [
     "price": 119.99,
     "instructor": "Emily Johnson",
     "isFeatured": true,
-    "image": "https://britfort.in/wp-content/uploads/2023/01/C2.jpg"
+    "image": "https://img.freepik.com/premium-photo/young-women-teacher-stand-up-front-student_1015832-482.jpg?uid=R77884259&ga=GA1.1.215374147.1714585520&semt=ais_hybrid"
   },
   {
     "id": 4,
@@ -48,7 +48,7 @@ const courseData = [
     "price": 129.99,
     "instructor": "Mike Brown",
     "isFeatured": true,
-    "image": "https://britfort.in/wp-content/uploads/2023/01/C5.jpg"
+    "image": "https://img.freepik.com/premium-photo/close-up-student-taking-exam-classroom_1110519-16045.jpg?w=900"
   },
   {
     "id": 5,
@@ -58,7 +58,7 @@ const courseData = [
     "price": 139.99,
     "instructor": "Chris Davis",
     "isFeatured": false,
-    "image": "https://britfort.in/wp-content/uploads/2023/01/C3.jpg"
+    "image": "https://img.freepik.com/premium-photo/three-women-are-talking-hospital-room-with-doctor_1053-40790.jpg?w=900"
   },
   {
     "id": 6,
@@ -68,7 +68,7 @@ const courseData = [
     "price": 139.99,
     "instructor": "Chris Davis",
     "isFeatured": true,
-    "image": "https://britfort.in/wp-content/uploads/2023/01/C4.jpg"
+    "image": "https://img.freepik.com/premium-photo/students-working-study-group_1121250-197086.jpg?w=826"
   },
   {
     "id": 7,
@@ -78,7 +78,7 @@ const courseData = [
     "price": 139.99,
     "instructor": "Chris Davis",
     "isFeatured": true,
-    "image": "https://britfort.in/wp-content/uploads/2023/01/C1.jpg"
+    "image": "https://img.freepik.com/premium-photo/trainer-leading-workshop-emotional-intelligence-workplace-relationships_1314467-52729.jpg?uid=R77884259&ga=GA1.1.215374147.1714585520&semt=ais_hybrid"
   }
 ];
 
